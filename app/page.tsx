@@ -113,6 +113,8 @@ export default function Home() {
           <p className="summary">
             Code autobiographical narratives without collapsing textual evidence into psychological interpretation.
           </p>
+          <p className="summary">
+            SUNY Oneonta  </p>
         </div>
 
         <form className="search" onSubmit={(event) => {
